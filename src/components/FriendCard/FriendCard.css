@@ -1,0 +1,18 @@
+.card {
+    width: 300px;
+}
+
+.card_image {
+    height: 0px;
+    padding-top: 50.25%;
+    object-fit: fill !important;
+    background-position: center;
+    background-size: cover;
+}
+
+.avatar {
+    height: 80px !important;
+    width: 80px !important;
+    position: absolute !important;
+    top: 7rem !important;
+}
